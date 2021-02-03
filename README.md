@@ -1,0 +1,2 @@
+# httpClientFactory
+HttpClient singleton factory
